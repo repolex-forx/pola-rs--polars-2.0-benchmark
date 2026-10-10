@@ -1,0 +1,11 @@
+{
+  "org": "pola-rs",
+  "repo": "polars-2.0-benchmark",
+  "versions": [
+    {
+      "commit": "2d368574ae96ea27439906c4ae751e94fcd55532",
+      "tag": "",
+      "parsed_at": "2026-10-10T04:41:53.513859+00:00"
+    }
+  ]
+}
